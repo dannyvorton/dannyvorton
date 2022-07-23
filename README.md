@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dannyvorton
-- 👀 I currently work with the following programming languages: Python, Java, Swift, JavaScript
-- 👀 I’m interested in: Mobile and Web apps
-- 🌱 I’m currently learning: Python, Java, Swift, JavaScript
+- 👀 I currently work with the following programming languages: SQL, R, Python, Java, Swift
+- 👀 I’m interested in: Data Science and Computer Science
+- 🌱 I’m currently learning: SQL, R, Python, Java, Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
