@@ -1,12 +1,12 @@
-- Hi, I’m Danny Orton
+Hi, I’m Danny Orton
 
-- I am a student of the following computer languages:
+I am a student of the following computer languages:
 > * SQL, R, Python, Scala
 > * Java, PHP
 > * HTML, CSS, JavaScript
 > * Swift, Kotlin, C#
 
-- I am also a student of the following technologies:
+I am also a student of the following technologies:
 > * Networking, Servers, IT Security
 
 <!---
