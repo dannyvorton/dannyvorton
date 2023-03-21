@@ -9,6 +9,8 @@ I am a student of the following computer languages:
 I am also a student of the following technologies:
 > * Networking, Servers, IT Security
 
+Please browse my public repositories to see my portfolio of work.
+
 <!---
 dannyvorton/dannyvorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
