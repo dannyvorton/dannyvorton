@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @dannyvorton
-- 👀 I currently work with the following programming languages: SQL, R, Python, Java, Swift
-- 👀 I’m interested in: Data Science and Computer Science
-- 🌱 I’m currently learning: SQL, R, Python, Java, Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Danny Orton
+- 👀 I am a student of the following computer languages:
+* SQL, R, Python, Scala
+* Java, PHP
+* HTML, CSS, JavaScript
+* Swift, Kotlin, C#
 
 <!---
 dannyvorton/dannyvorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
