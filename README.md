@@ -7,6 +7,7 @@ I'm a student of the following computer languages:
     <li>Java, PHP</li>
     <li>HTML, CSS, JavaScript</li>
     <li>Swift, Kotlin, C#</li>
+    <li>Assembly, C, C++, Rust</li>
 </ul>
 
 I'm also a student of the following technologies:
