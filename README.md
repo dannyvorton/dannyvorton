@@ -4,9 +4,9 @@ I'm a student of the following computer languages:
 
 <ul>
     <li>SQL, R, Python, Scala</li>
-    <li>Java, PHP</li>
-    <li>HTML, CSS, JavaScript</li>
-    <li>Swift, Kotlin, C#</li>
+    <li>HTML, CSS, JavaScript, PHP</li>
+    <li>Swift, Kotlin</li>
+    <li>Java, C#</li>
     <li>Assembly, C, C++, Rust</li>
 </ul>
 
