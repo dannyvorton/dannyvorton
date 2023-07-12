@@ -3,9 +3,9 @@ Hi, I’m Danny Orton
 I'm a student of the following computer languages:
 
 <ul>
-    <li>SQL, R, Python, Scala</li>
-    <li>HTML, CSS, JavaScript</li>
-    <li>Java, PHP</li>
+    <li>SQL, R, Scala</li>
+    <li>Java, Python</li>
+    <li>HTML, CSS, JavaScript, PHP</li>
     <li>Swift, Kotlin</li>
 </ul>
 
