@@ -4,13 +4,9 @@ I'm a student of the following computer languages:
 
 <ul>
     <li>SQL, R, Python, Scala</li>
+    <li>Java, C#</li>
     <li>HTML, CSS, JavaScript, PHP</li>
-</ul>
-
-I'm also a student of the following technologies:
-
-<ul>
-    <li>Networking, Servers, IT Security</li>
+    <li>Swift, Kotlin</li>
 </ul>
 
 Please browse my public repositories to see my portfolio of work.
