@@ -2,12 +2,9 @@ Hi, I’m Danny Orton
 
 I'm a student of the following computer languages:
 
-<ul>
-    <li>SQL, R, Python, Scala</li>
-    <li>Java, C#</li>
-    <li>HTML, CSS, JavaScript, PHP</li>
-    <li>Swift, Kotlin</li>
-</ul>
+* SQL, R, Python, Scala
+* Java, Kotlin, Swift, C#
+* HTML, CSS, JavaScript, PHP
 
 Please browse my public repositories to see my portfolio of work.
 
