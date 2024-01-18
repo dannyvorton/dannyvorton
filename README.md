@@ -3,7 +3,6 @@ Hi, I’m Danny Orton
 I'm a student of the following computer languages:
 
 * SQL, R, Python, Scala
-* Java, Kotlin, Swift, C#
 * HTML, CSS, JavaScript, PHP
 
 Please browse my public repositories to see my portfolio of work.
