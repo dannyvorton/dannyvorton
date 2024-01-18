@@ -1,6 +1,6 @@
 Hi, I’m Danny Orton
 
-I'm a student of the following computer languages:
+I work as a Data Engineer and I'm a student of the following computer languages:
 
 * SQL, R, Python, Scala
 * HTML, CSS, JavaScript, PHP
