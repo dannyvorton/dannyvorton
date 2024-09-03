@@ -4,7 +4,6 @@ I work as a Data Engineer and I'm a student of the following computer languages:
 
 * SQL
 * Python
-* Java
 * Scala
 * JavaScript
 
