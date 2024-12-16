@@ -10,7 +10,6 @@ I work as a Data Engineer and I'm a student of the following programming languag
 * CSS
 * JavaScript
 * PHP
-* Go
 * Bash
 
 Please browse my public repositories to see my portfolio of work.
