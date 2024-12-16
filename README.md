@@ -9,6 +9,7 @@ I work as a Data Engineer and I'm a student of the following programming languag
 * HTML
 * CSS
 * JavaScript
+* PHP
 * Go
 * Bash
 
