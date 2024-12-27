@@ -8,7 +8,8 @@ I work as a Data Engineer and I'm a student of the following programming languag
 * JVM (Java, Kotlin, Scala)
 * HTML/CSS
 * JavaScript
-* Go
+* Swift
+* C#
 * Bash/Shell
 
 Please browse my public repositories to see my portfolio of work.
