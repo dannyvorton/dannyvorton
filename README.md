@@ -5,11 +5,9 @@ I work as a Data Engineer and I'm a student of the following programming languag
 * SQL
 * R
 * Python
-* JVM (Java, Kotlin, Scala)
 * HTML/CSS
 * JavaScript
 * C#
-* Swift
 * Bash/Shell
 
 Please browse my public repositories to see my portfolio of work.
