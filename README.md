@@ -3,7 +3,6 @@ Hi, I’m Danny Orton
 I work as a Data Engineer and I'm a student of the following programming languages:
 
 * SQL
-* R
 * Python
 * HTML/CSS
 * JavaScript
