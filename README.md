@@ -11,4 +11,7 @@ Please browse my public repositories to see my portfolio of work.
 # Portfolio
 * www.myrealages.org
   * Languages: HTML, CSS, TypeScript
-  * Frameworks: NextJS, TailwindCSS
+  * Frameworks: Next.js, TailwindCSS
+* www.12patriarchs.org (WIP)
+  * Languages: HTML, CSS, JavaScript
+  * Frameworks: Vue.js
