@@ -9,9 +9,9 @@ I work as a Data Engineer and I'm a student of the following programming languag
 Please browse my public repositories to see my portfolio of work.
 
 # Portfolio
-* www.myrealages.org
-  * Languages: HTML, CSS, TypeScript
-  * Frameworks: Next.js, TailwindCSS
 * www.12patriarchs.org (WIP)
   * Languages: HTML, CSS, JavaScript
   * Frameworks: Vue.js
+* www.myrealages.org
+  * Languages: HTML, CSS, TypeScript
+  * Frameworks: Next.js, TailwindCSS
