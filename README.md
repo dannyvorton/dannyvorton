@@ -5,8 +5,7 @@ I work as a Data Engineer and I'm a student of the following programming languag
 * SQL
 * R
 * Python
-* Go
-* Kotlin
-* JavaScript
+* Java / Kotlin
+* JavaScript / TypeScript
 
 Please browse my public repositories to see my portfolio of work.
