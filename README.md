@@ -5,7 +5,6 @@ I work as a Data Engineer and I'm a student of the following programming languag
 * SQL
 * R
 * Python
-* Go
 * Java / Kotlin
 * JavaScript / TypeScript
 
